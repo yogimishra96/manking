@@ -1,0 +1,6 @@
+[14-Nov-2017 14:34:58 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[23-Nov-2017 11:54:05 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[27-Nov-2017 23:53:52 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[06-Dec-2017 02:44:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[07-Dec-2017 14:17:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[07-Dec-2017 14:17:05 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/index.php on line 18

@@ -1,0 +1,1 @@
+[04-Nov-2017 07:16:44 UTC] PHP Warning:  file_put_contents(/home/mankingpharma/public_html/wp-content/deleteme.bff2cc61c9ee4f919ef2126adbd6f5ce.php): failed to open stream: No such file or directory in /home/mankingpharma/public_html/deleteme.bff2cc61c9ee4f919ef2126adbd6f5ce.php on line 31

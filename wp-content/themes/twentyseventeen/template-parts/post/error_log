@@ -1,0 +1,4 @@
+[14-Nov-2017 14:34:52 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php on line 15
+[27-Nov-2017 23:54:05 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php on line 15
+[01-Dec-2017 19:44:34 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php on line 15
+[01-Dec-2017 19:44:35 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/mankingpharma/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php on line 15

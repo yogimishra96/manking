@@ -1,0 +1,2 @@
+[25-Nov-2017 12:49:54 UTC] PHP Fatal error:  Call to undefined function __() in /home/mankingpharma/public_html/wp-admin/user/menu.php on line 10
+[25-Nov-2017 12:54:44 UTC] PHP Fatal error:  Call to undefined function __() in /home/mankingpharma/public_html/wp-admin/user/menu.php on line 10
